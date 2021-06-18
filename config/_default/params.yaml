@@ -12,15 +12,15 @@ font_size: L
 
 # SEO
 
-site_type: Organization
+site_type: CV
 local_business_type: ''
 org_name: ''
-description: My research group description.
+description: Academic CV
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: acolligan01@qub.ac.uk
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
